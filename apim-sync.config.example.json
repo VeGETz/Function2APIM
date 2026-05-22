@@ -1,0 +1,7 @@
+{
+  "subscriptionId": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "resourceGroup": "my-resource-group",
+  "apimInstance": "my-apim-instance",
+  "apiId": "my-function-api",
+  "backendId": "my-function-backend-id"
+}
